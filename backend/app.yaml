@@ -1,0 +1,7 @@
+runtime: nodejs18
+env_variables:
+  PORT: 8080
+  DB_HOST: /cloudsql/moto-academy-web:us-central1:via-cep
+  DB_USER: root
+  DB_PASSWORD: ''
+  DB_NAME: viacep_db
