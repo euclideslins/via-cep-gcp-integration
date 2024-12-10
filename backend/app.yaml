@@ -5,3 +5,5 @@ env_variables:
   DB_USER: root
   DB_PASSWORD: ''
   DB_NAME: viacep_db
+
+service: euclides-node
